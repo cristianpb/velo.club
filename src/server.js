@@ -8,6 +8,7 @@ const dev = NODE_ENV === 'development';
 
 export default polka() // You can also use Express
   .use(
+    dev ? '/' : 'velo.club',
     compression({ threshold: 0 }),
     sirv('static', { dev }),
     sapper.middleware()
