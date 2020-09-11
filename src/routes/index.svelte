@@ -8,7 +8,7 @@
 </script>
 
 <svelte:head>
-  <title>Sapper with PostCSS and Tailwind</title>
+  <title>Velo Club</title>
 </svelte:head>
 
 <div class="py-20" style="background: linear-gradient(90deg, #667eea 0%, #764ba2 100%)"
