@@ -37,13 +37,13 @@
         Nos équipes vous répondent en moins de 20 minutes.</p>
     </div>
     <div class="w-full md:w-1/2">
-      <img src="/bycicle.svg" alt="Monitoring" />
+      <img src="{process.env.NODE_ENV === 'development' ? '' : '/velo.club'}/bycicle.svg" alt="Monitoring" />
     </div>
   </div>
 
   <div class="flex items-center flex-wrap mb-20">
     <div class="w-full md:w-1/2">
-      <img src="/bike.svg" alt="Reporting" />
+      <img src="{process.env.NODE_ENV === 'development' ? '' : '/velo.club'}/bike.svg" alt="Reporting" />
     </div>
     <div class="w-full md:w-1/2 pl-10">
       <h4 class="text-3xl text-gray-800 font-bold mb-3">Sans engagement</h4>
@@ -57,7 +57,7 @@
       <p class="text-gray-600 mb-8">En cas de vol, nous remplaçons votre appareil.</p>
     </div>
     <div class="w-full md:w-1/2">
-      <img src="/bicycle.svg" alt="Syncing" />
+      <img src="{process.env.NODE_ENV === 'development' ? '' : '/velo.club'}/bicycle.svg" alt="Syncing" />
     </div>
   </div>
 </section>
