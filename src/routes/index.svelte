@@ -15,48 +15,49 @@
 >
   <div class="container mx-auto px-6">
     <h2 class="text-4xl font-bold mb-2 text-white">
-      Lorem ipsum dolor sit amet consectetur adipisicing elit
+      La location de vélos à assistance électrique
     </h2>
     <h3 class="text-2xl mb-8 text-gray-200">
-      At vero eos et accusam et justo duo dolores et ea rebum.
+      des 50€ par mois
     </h3>
     <button class="bg-white font-bold rounded-full py-4 px-8 shadow-lg uppercase tracking-wider">
-      Pre Order
+      Rejoindre le club
     </button>
   </div>
 </div>
 
 <section class="container mx-auto px-6 p-10">
   <h2 class="text-4xl font-bold text-center text-gray-800 mb-8">
-    Features
+   Avantages! 
   </h2>
   <div class="flex items-center flex-wrap mb-20">
     <div class="w-full md:w-1/2">
-      <h4 class="text-3xl text-gray-800 font-bold mb-3">Exercise Metric</h4>
-      <p class="text-gray-600 mb-8">Our Smart Health Monitoring Wristwatch is able to capture you vitals while you exercise. You can create different category of exercises and can track your vitals on the go.</p>
+      <h4 class="text-3xl text-gray-800 font-bold mb-3">En cas de crevasse, nous remplaçons votre vélo en 48h</h4>
+      <p class="text-gray-600 mb-8">Adieu la paperasse, les assurances en plus, les SAV interminables...
+        Nos équipes vous répondent en moins de 20 minutes.</p>
     </div>
     <div class="w-full md:w-1/2">
-      <img src="assets/health.svg" alt="Monitoring" />
+      <img src="/bycicle.svg" alt="Monitoring" />
     </div>
   </div>
 
   <div class="flex items-center flex-wrap mb-20">
     <div class="w-full md:w-1/2">
-      <img src="assets/report.svg" alt="Reporting" />
+      <img src="/bike.svg" alt="Reporting" />
     </div>
     <div class="w-full md:w-1/2 pl-10">
-      <h4 class="text-3xl text-gray-800 font-bold mb-3">Reporting</h4>
-      <p class="text-gray-600 mb-8">Our Smart Health Monitoring Wristwatch can generate a comprehensive report on your vitals depending on your settings either daily, weekly, monthly, quarterly or yearly.</p>
+      <h4 class="text-3xl text-gray-800 font-bold mb-3">Sans engagement</h4>
+      <p class="text-gray-600 mb-8">Vous pouvez changer ou rendre votre vélo à tout moment, sans frais. </p>
     </div>
   </div>
 
   <div class="flex items-center flex-wrap mb-20">
     <div class="w-full md:w-1/2">
-      <h4 class="text-3xl text-gray-800 font-bold mb-3">Syncing</h4>
-      <p class="text-gray-600 mb-8">Our Smart Health Monitoring Wristwatch allows you to sync data across all your mobile devices whether iOS, Android or Windows OS and also to your laptop whether MacOS, GNU/Linux or Windows OS.</p>
+      <h4 class="text-3xl text-gray-800 font-bold mb-3">Remplacement en cas de vol</h4>
+      <p class="text-gray-600 mb-8">En cas de vol, nous remplaçons votre appareil.</p>
     </div>
     <div class="w-full md:w-1/2">
-      <img src="assets/sync.svg" alt="Syncing" />
+      <img src="/bicycle.svg" alt="Syncing" />
     </div>
   </div>
 </section>
